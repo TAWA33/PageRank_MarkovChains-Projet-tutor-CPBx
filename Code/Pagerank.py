@@ -2,6 +2,7 @@ import networkx as nx
 import pandas as pd 
 import time
 import numpy as np
+import matplotlib.pyplot as plt
 
 def page_rank(graph, max_iter=100, tol=1e-6, a=0.85):
     """
@@ -93,14 +94,6 @@ max_site = max(pr_values, key=pr_values.get)
 print(f"Le site le plus référencé est : {max_site} avec un PageRank de {pr_values[max_site]}")
 
 
-
-
-
-
-
-
-import matplotlib.pyplot as plt
-import numpy as np
 
 # Calcul des erreurs relatives
 errors = []
