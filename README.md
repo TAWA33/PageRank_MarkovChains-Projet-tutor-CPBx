@@ -23,7 +23,7 @@ Le travail comprend :
 - Des **cas pratiques** : application du modèle à un sous-ensemble du web et à d'autres domaines comme l'assurance (Bonus-Malus) ou la finance.
 - - 📈 Une extension a été réalisée sous forme d’un **article scientifique**, avec une **modélisation des marchés financiers** (Bitcoin) à l’aide de chaînes de Markov et simulation de trajectoires de prix.
 
-## 🛠️ Technologies utilisées
+## 🛠️ Outils utilisées
 
 - Python  
 - NumPy  
