@@ -48,7 +48,7 @@ Chaînes de Markov • Systèmes dynamiques • Matrices de transition • PageR
 ![Graph](Graph.png)
 
 ### Sous base de donnée extraite
-![Graph2](ezgif-4ba6a4b366c465.gif)
+![Graph2](graphique_base_donnee.png)
 
 ### Animation Calcul PageRank
 ![Animation PageRank sur notre base de donnée](ezgif-4ba6a4b366c465.gif)
