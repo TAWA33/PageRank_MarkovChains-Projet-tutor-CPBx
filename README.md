@@ -42,3 +42,13 @@ Le travail comprend :
 ## 📄 Mots-clés
 
 Chaînes de Markov • Systèmes dynamiques • Matrices de transition • PageRank • Algorithmes • Python • Graphes dirigés • Modélisation
+
+## 🎥 Visuels
+### Graphe CommonCrawl
+![Graph](Graph.png)
+
+### Sous base de donnée extraite
+![Graph2](ezgif-4ba6a4b366c465.gif)
+
+### Animation Calcul PageRank
+![Animation PageRank sur notre base de donnée](ezgif-4ba6a4b366c465.gif)
